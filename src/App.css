@@ -1,0 +1,19 @@
+
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.container h2 {
+  font-weight: bold;
+  color: #212529;
+}
+
+form {
+  max-width: 650px;
+}
